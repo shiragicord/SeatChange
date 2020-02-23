@@ -1,0 +1,12 @@
+C:\Users\tanithi\source\repos\SeatChange\SeatChange\bin\Debug\SeatChange.exe.config
+C:\Users\tanithi\source\repos\SeatChange\SeatChange\bin\Debug\SeatChange.exe
+C:\Users\tanithi\source\repos\SeatChange\SeatChange\bin\Debug\SeatChange.pdb
+C:\Users\tanithi\source\repos\SeatChange\SeatChange\obj\Debug\SeatChange.csprojAssemblyReference.cache
+C:\Users\tanithi\source\repos\SeatChange\SeatChange\obj\Debug\SeatChange.MainForm.resources
+C:\Users\tanithi\source\repos\SeatChange\SeatChange\obj\Debug\SeatChange.Properties.Resources.resources
+C:\Users\tanithi\source\repos\SeatChange\SeatChange\obj\Debug\SeatChange.csproj.GenerateResource.cache
+C:\Users\tanithi\source\repos\SeatChange\SeatChange\obj\Debug\SeatChange.exe
+C:\Users\tanithi\source\repos\SeatChange\SeatChange\obj\Debug\SeatChange.pdb
+C:\Users\tanithi\source\repos\SeatChange\SeatChange\obj\Debug\SeatChange.ButtonTable.resources
+C:\Users\tanithi\source\repos\SeatChange\SeatChange\obj\Debug\SeatChange.NameDialog.resources
+C:\Users\tanithi\source\repos\SeatChange\SeatChange\obj\Debug\SeatChange.ResultDialog.resources
