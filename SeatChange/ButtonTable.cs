@@ -79,7 +79,7 @@ namespace SeatChange
                     Padding margin = button.Margin;
                     margin.All = 0;
                     button.Margin = margin;
-                    button.BackColor = Color.FromArgb(0x0, 0x0, 0xFF);
+                    button.BackColor = SheetData.COLOR_MAN;
                     button.Click += new EventHandler(Button_Click);
                     mainTable.Controls.Add(button, i, j);
                 }
